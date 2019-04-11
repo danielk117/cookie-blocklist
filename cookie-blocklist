@@ -1,19 +1,18 @@
 # cookie network blocklist 
 # github.com/danielk117/cookie-blocklist
-(^|\.)cookie-bar\.
-(^|\.)cookie-script\.
-(^|\.)cookieassistant\.
-(^|\.)cookiebot\.
-(^|\.)cookiechoices\.
+(^|\.)cookie-bar\.eu$
+(^|\.)cookie-script\.com$
+(^|\.)cookieassistant\.com$
+(^|\.)cookiebot\.com$
+(^|\.)cookiechoices\.org$
 (^|\.)cookieconsent\.
-(^|\.)cookiedrop\.
-(^|\.)cookieguard\.
-cookielaw.eu
-(^|\.)cookielaw\.eu$
-(^|\.)cookielaw\.
-(^|\.)cookielaw-script\.
-(^|\.)cookielawinfo\.
-(^|\.)cookieok\.
-(^|\.)cookieq\.
-(^|\.)cookiereports\.
-(^|\.)onetrust\.
+(^|\.)cookiedrop\.co\.uk$
+(^|\.)cookieguard\.eu$
+(^|\.)cookielaw\.org$
+(^|\.)cookielawinfo\.com$
+(^|\.)cookieok\.eu$
+(^|\.)cookieq\.com$
+(^|\.)cookiereports\.com$
+(^|\.)meetrics\.net$
+(^|\.)mxcdn\.net$
+(^|\.)onetrust\.com$
