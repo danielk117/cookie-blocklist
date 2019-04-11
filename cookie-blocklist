@@ -9,6 +9,7 @@
 (^|\.)cookiedrop\.
 (^|\.)cookieguard\.
 (^|\.)cookielaw\.
+(^|\.)cookielaw-script\.
 (^|\.)cookielawinfo\.
 (^|\.)cookieok\.
 (^|\.)cookieq\.
