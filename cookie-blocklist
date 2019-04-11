@@ -1,4 +1,5 @@
-# test with regex entries
+# cookie network blocklist 
+# github.com/danielk117/cookie-blocklist
 (^|\.)cookie-bar\.
 (^|\.)cookie-script\.
 (^|\.)cookieassistant\.
